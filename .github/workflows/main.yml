@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schema.json
+          INPUT_JSONS: ./db.json
+
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: KeisukeYamashita/auto-pull-request-merge@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          intervalSeconds: 5
+    
+    needs: validate
