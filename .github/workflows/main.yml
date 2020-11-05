@@ -16,3 +16,16 @@ jobs:
         env:
           INPUT_SCHEMA: ./schema.json
           INPUT_JSONS: ./db.json
+
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: davideviolante/pr-automerge-action@v1.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          merge-method: 'squash'
+          min-approvals: 0
+          base-ref: ${{ github.base_ref }}
+    
+    needs: validate
