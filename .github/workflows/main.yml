@@ -26,6 +26,6 @@ jobs:
         with:
           merge-method: 'squash'
           min-approvals: 0
-          base-ref: ${{ github.base_ref }}
+          base-ref: ${{ github.head_ref }}
     
     needs: validate
