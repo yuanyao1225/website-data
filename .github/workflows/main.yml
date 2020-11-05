@@ -20,12 +20,9 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - uses: davideviolante/pr-automerge-action@v1.1.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: KeisukeYamashita/auto-pull-request-merge@v1
         with:
-          merge-method: 'squash'
-          min-approvals: 0
-          base-ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          intervalSeconds: 5
     
     needs: validate
