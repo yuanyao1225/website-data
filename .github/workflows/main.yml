@@ -20,7 +20,8 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - uses: KeisukeYamashita/auto-pull-request-merge@v1
+      - uses: Kermit-Xuan/auto-pull-request-merge@v2
+        if: github.event_name == 'pull_request'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           intervalSeconds: 5
