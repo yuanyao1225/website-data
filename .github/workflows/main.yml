@@ -5,6 +5,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+    types: [ opened, synchronize, edited, reopened ]
 
 jobs:
   validate:
@@ -12,6 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Validate JSON
+        if: github.event_name == 'push' || github.pull_request.action != 'edited'
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema.json
@@ -25,5 +27,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           intervalSeconds: 1
+          failStep: false
     
     needs: validate
