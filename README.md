@@ -4,7 +4,7 @@
 
 ## Preview
 
-https://ant.design/
+https://ant.design
 
 ## Update Data
 
