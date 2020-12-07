@@ -2,44 +2,44 @@
   "recommendations": {
     "cn": [
       {
-        "title": "👀「防呆」手法在设计中的应用",
-        "description": "一起看看防呆设计的原则及应用案例",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*1M6dQqEiWX0AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/279915439",
+        "title": "AntV 图可视分析解决方案，来啦～",
+        "description": "全套图可视分析的解决方案白皮书重磅来袭！",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*ZdvgRYfvMgoAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/309424089",
         "popularize": true
       },
       {
-        "title": "2020，贴地飞行的 AntV 设计",
-        "description": "一年一度的 AntV 品牌发布日又来了！",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*LYx1TbmHFDQAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/308495829"
+        "title": "话题 5：你的产品还需要哪些颜色？",
+        "description": "探索交互界面中的色彩传达的情感和功能含义",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*IKeSSLn4DgEAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/315770425"
       },
       {
-        "title": "Ant Design Mobile 需要你的建议！",
-        "description": "在移动应用场景迅速普及的今天，我们希望能够继续打磨和优化 Ant Design Mobile",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*DD2aQKVF3dkAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/297919029"
+        "title": "html2sketch：一名设计工程师的 C2D 探索之路",
+        "description": "分享一下四个月的时间，在 C2D 领域做一些探索和成果",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*n-QYQpUEL2AAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/312306021"
       }
     ],
     "en": [
       {
-        "title": " 👀 What is「Foolproof Design」？",
-        "description": "The principles and application cases of the「Foolproof Design」",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*1M6dQqEiWX0AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/279915439",
+        "title": " Here comes the AntV diagram visual analysis solution！",
+        "description": "A whole set of diagram visual analysis solution white paper released!",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*ZdvgRYfvMgoAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/309424089",
         "popularize": true
       },
       {
-        "title": "2020, the best AntV design for business so far",
-        "description": "The annual AntV brand release day is coming again!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*LYx1TbmHFDQAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/308495829"
+        "title": "Topic 5: what other colors do you need for your product?",
+        "description": "Explore the emotional and functional meaning of color communication in interactive design",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*IKeSSLn4DgEAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/315770425"
       },
       {
-        "title": "Ant Design Mobile needs your advice！",
-        "description": "With the rapid popularization of mobile applications, we hope to continue to optimize Ant Design Mobile",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*DD2aQKVF3dkAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/297919029"
+        "title": "Html2sketch: C2D exploration of a design engineer",
+        "description": "Share some of my exploration and achievements in C2D field",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*n-QYQpUEL2AAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/312306021"
       }
     ]
   },
