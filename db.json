@@ -89,7 +89,7 @@
       },
       {
         "title": "Everyone can be an Illustrator: Modularizing Illustration with Ant Design HiTu",
-        "description": "Ant Design HiTu aims to modularize layout, color, shapes, and a series of design guidelines to turn everyone into an illustrator.",
+        "description": "Ant Design HiTu aims to modularize layout, color, shapes, and a series of design guidelines.",
         "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*cJdyS4KVDlgAAAAAAAAAAABkARQnAQ",
         "date": "2020-08-27",
         "source": "medium",
@@ -97,7 +97,7 @@
       },
       {
         "title": "A Peek into Ant Design 4.0：Going Dark",
-        "description": "The dark mode is becoming one of the most requested features. Therefore, Ant Design began exploring the dark mode in our 4.0 upgrade.",
+        "description": "The dark mode is becoming one of the most requested features. Ant Design began exploring the dark mode in our 4.0 upgrade.",
         "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NjL9T4cryc0AAAAAAAAAAAAAARQnAQ",
         "date": "2020-08-20",
         "source": "medium",
@@ -115,6 +115,7 @@
   },
   "icons": {
     "zhihu": "https://gw.alipayobjects.com/zos/basement_prod/5f4e1fd0-d255-4309-b181-a3715a720ebe.svg",
-    "yuque": "https://gw.alipayobjects.com/zos/basement_prod/53e7a5b8-c9f4-45a4-8378-cbf50f2dd0d0.svg"
+    "yuque": "https://gw.alipayobjects.com/zos/basement_prod/53e7a5b8-c9f4-45a4-8378-cbf50f2dd0d0.svg",
+    "medium": "https://gw.alipayobjects.com/zos/bmw-prod/70b1b9c0-ab1a-4bd7-817f-fbddf3030911.svg",
   }
 }
