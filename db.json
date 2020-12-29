@@ -2,17 +2,17 @@
   "recommendations": {
     "cn": [
       {
-        "title": "「自然交互·预判」如何根据用户行为做预判设计？",
-        "description": "掌握「预判设计」方法，让你比你的用户更早一步！",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*aPIBS5gRPu4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338138151",
+        "title": "SEE Conf 2021 如期而至，体验科技极致美！",
+        "description": "SEE Conf 2021 将于 2021 年 1 月 9 日在杭州蚂蚁Z空间举办，让我们来了解一下本届有哪些看点吧！",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*u9fhRJk0YmQAAAAAAAAAAAAAARQnAQ",
+        "href": "https://seeconf.antfin.com",
         "popularize": true
       },
       {
-        "title": "话题 5：你的产品还需要哪些颜色？",
-        "description": "探索交互界面中的色彩传达的情感和功能含义",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*IKeSSLn4DgEAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/315770425"
+        "title": "自然交互·预判」如何根据用户行为做预判设计？",
+        "description": "掌握「预判设计」方法，让你比你的用户更早一步！",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*H1NcRbw8nTAAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/338138151"
       },
       {
         "title": "html2sketch：一名设计工程师的 C2D 探索之路",
@@ -23,17 +23,17 @@
     ],
     "en": [
       {
-        "title": "  How to do ‘Anticipatory Design’？",
-        "description": "Master the method to make you a step earlier than your users!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*aPIBS5gRPu4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338138151",
+        "title": "SEE Conf 2021 arrives as scheduled. Experience the ultimate beauty of technology.",
+        "description": "SEE Conf 2021 will be held on January 9, 2021 at Ant Z Space in Hangzhou. Let’s take a look at the highlights~",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*u9fhRJk0YmQAAAAAAAAAAAAAARQnAQ",
+        "href": "https://seeconf.antfin.com",
         "popularize": true
       },
       {
-        "title": "Topic 5: what other colors do you need for your product?",
-        "description": "Explore the emotional and functional meaning of color communication in interactive design",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*IKeSSLn4DgEAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/315770425"
+        "title": "How to do ‘Anticipatory Design’？",
+        "description": "Master the method to make you a step earlier than your users!",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*H1NcRbw8nTAAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/338138151"
       },
       {
         "title": "Html2sketch: C2D exploration of a design engineer",
