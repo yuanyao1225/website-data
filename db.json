@@ -9,16 +9,16 @@
         "popularize": true
       },
       {
+        "title": "dumi 1.1 发布，你更好用的组件研发利器！",
+        "description": "沉淀 304 天，全新的 dumi 1.1 版本，在 2021 年前夕和大家分享",
+        "img": "https://gw.alipayobjects.com/zos/bmw-prod/8f6a2bdb-64bc-4a84-9d59-bc8aa030f2ca/kjcodlvy_w980_h384.png",
+        "href": "https://zhuanlan.zhihu.com/p/340845825"
+      },
+      {
         "title": "「自然交互·预判」如何根据用户行为做预判设计？",
         "description": "掌握「预判设计」方法，让你比你的用户更早一步！",
         "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*H1NcRbw8nTAAAAAAAAAAAAAAARQnAQ",
         "href": "https://zhuanlan.zhihu.com/p/338138151"
-      },
-      {
-        "title": "html2sketch：一名设计工程师的 C2D 探索之路",
-        "description": "分享一下四个月的时间，在 C2D 领域做一些探索和成果",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*n-QYQpUEL2AAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/312306021"
       }
     ],
     "en": [
@@ -30,16 +30,16 @@
         "popularize": true
       },
       {
+        "title": "Announcing dumi 1.1, a better component development tool for you!",
+        "description": "What we want to share with you on the eve of 2021 is the v1.1.0 of brand new dumi",
+        "img": "https://gw.alipayobjects.com/zos/bmw-prod/8f6a2bdb-64bc-4a84-9d59-bc8aa030f2ca/kjcodlvy_w980_h384.png",
+        "href": "https://zhuanlan.zhihu.com/p/340845825"
+      },
+      {
         "title": "How to do ‘Anticipatory Design’？",
         "description": "Master the method to make you a step earlier than your users!",
         "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*H1NcRbw8nTAAAAAAAAAAAAAAARQnAQ",
         "href": "https://zhuanlan.zhihu.com/p/338138151"
-      },
-      {
-        "title": "Html2sketch: C2D exploration of a design engineer",
-        "description": "Share some of my exploration and achievements in C2D field",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*n-QYQpUEL2AAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/312306021"
       }
     ]
   },
