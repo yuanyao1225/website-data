@@ -2,17 +2,17 @@
   "recommendations": {
     "cn": [
       {
-        "title": "打造开源的 Ant Designer 设计师社群",
-        "description": "2021，让我们一起认真生活，快乐工作！",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*HCdZTJqTop4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338781307",
+        "title": "还可以这么玩？7 天上线一款可视化游戏",
+        "description": "玩法更多元、形式更新颖，带你回顾我们如何在 7 天内打造一款轻便、互动的可视化小游戏。",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*25QwSbszF8EAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/344584611",
         "popularize": true
       },
       {
-        "title": "dumi 1.1 发布，你更好用的组件研发利器！",
-        "description": "沉淀 304 天，全新的 dumi 1.1 版本，在 2021 年伊始和大家分享",
-        "img": "https://gw.alipayobjects.com/zos/bmw-prod/6bdb352f-0c35-4b67-98ac-e3850ddfefaa/kjek8keu_w980_h384.png",
-        "href": "https://zhuanlan.zhihu.com/p/340845825"
+        "title": "打造开源的 Ant Designer 设计师社群",
+        "description": "2021，让我们一起认真生活，快乐工作！",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*HCdZTJqTop4AAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/338781307"
       },
       {
         "title": "「自然交互·预判」如何根据用户行为做预判设计？",
@@ -23,17 +23,17 @@
     ],
     "en": [
       {
-        "title": "Create an open source community together with Ant Designers!",
-        "description": "2021, let's live and work together happily!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*HCdZTJqTop4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338781307",
+        "title": "We can play like this! A visual game launched in 7 days！",
+        "description": "More ways to play, more innovative forms, take you to review how we create a light, interactive visual game in 7 days.",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*25QwSbszF8EAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/344584611",
         "popularize": true
       },
       {
-        "title": "Announcing dumi 1.1, a better component development tool for you!",
-        "description": "What we want to share with you on the eve of 2021 is the v1.1.0 of brand new dumi",
-        "img": "https://gw.alipayobjects.com/zos/bmw-prod/def29ea9-f55a-42d8-9b26-b564387357d3/kjeka42u_w980_h384.png",
-        "href": "https://zhuanlan.zhihu.com/p/340845825"
+        "title": "Create an open source community together with Ant Designers!",
+        "description": "2021, let's live and work together happily!",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*HCdZTJqTop4AAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/338781307"
       },
       {
         "title": "How to do ‘Anticipatory Design’？",
