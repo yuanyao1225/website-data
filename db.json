@@ -46,20 +46,20 @@
   "extras": {
     "cn": [
       {
+        "title": "AntV 图可视分析解决方案（设计篇）— SEE Conf 分享",
+        "description": "随着产品功能的拓展，需要在图上表达的信息维度越来越多，根本没有停下来的趋势。如何应对这些挑战？",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*XMbiR42GXkMAAAAAAAAAAAAAARQnAQ",
+        "date": "2021-01-20",
+        "source": "zhihu",
+        "href": "https://zhuanlan.zhihu.com/p/345721015"
+      },
+      {
         "title": "Ant Design 设计工程化 - SEE Conf 分享",
         "description": "分享我们对可见的设计体系背后隐形的设计规则的思考，以及如何通过设计工程化的方式，让这些规则可用而不可见。",
         "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*FSwJRqtvBNYAAAAAAAAAAAAAARQnAQ",
         "date": "2021-01-18",
         "source": "yuque",
         "href": "https://www.yuque.com/ant-design/ant-design/bkcxo1#udIcn"
-      },
-      {
-        "title": "还可以这么玩？7 天上线一款可视化游戏",
-        "description": "玩法更多元、形式更新颖，带你回顾我们如何在 7 天内打造一款轻便、互动的可视化小游戏。",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*25QwSbszF8EAAAAAAAAAAAAAARQnAQ",
-        "date": "2021-01-15",
-        "source": "yuque",
-        "href": "https://www.yuque.com/ant-design/ant-design/xpggwk"
       },
       {
         "title": "html2sketch：一名设计工程师的 C2D 探索之路",
