@@ -2,44 +2,44 @@
   "recommendations": {
     "cn": [
       {
-        "title": "还可以这么玩？7 天上线一款可视化游戏",
-        "description": "玩法更多元、形式更新颖，带你回顾我们如何在 7 天内打造一款轻便、互动的可视化小游戏。",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*wCs5RpJW9RkAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/344584611",
+        "title": "蚂蚁人的新年愿望是什么 ❤️ 心愿热力图告诉你",
+        "description": "可视化互动装置展台《带走你的新年愿望》，让我们一窥蚂蚁技术人的 2021 年的新年愿望！",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*eDCORaDTDUcAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/348457247",
         "popularize": true
       },
       {
-        "title": "打造开源的 Ant Designer 设计师社群",
-        "description": "2021，让我们一起认真生活，快乐工作！",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*HCdZTJqTop4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338781307"
+        "title": "「自然交互· 泰斯勒定律」如何平衡设计的复杂度？",
+        "description": "无论在产品开发环节还是在用户与产品的交互环节，其内在的复杂度都有一个临界值",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*lcgKRpTxzO8AAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/343497540"
       },
       {
-        "title": "「自然交互·预判」如何根据用户行为做预判设计？",
-        "description": "掌握「预判设计」方法，让你比你的用户更早一步！",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*H1NcRbw8nTAAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338138151"
+        "title": "Ant Design 设计工程化——SEE Conf 分享",
+        "description": "Ant Design 对可见的设计体系背后隐形的设计规则的思考，以及如何通过设计工程化的方式，让这些复杂的规则可用而不可见。",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*oftiTabIc10AAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/344336425"
       }
     ],
     "en": [
       {
-        "title": "We can play like this! A visual game launched in 7 days！",
-        "description": "More ways to play, more innovative forms, take you to review how we create a light, interactive visual game in 7 days.",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*wCs5RpJW9RkAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/344584611",
+        "title": "What are our new year's wishes？ ❤️ Wish heat chart tells you！",
+        "description": "let's have a glimpse of Ant Technology people's new year's resolution in 2021！",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*eDCORaDTDUcAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/348457247",
         "popularize": true
       },
       {
-        "title": "Create an open source community together with Ant Designers!",
-        "description": "2021, let's live and work together happily!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*HCdZTJqTop4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338781307"
+        "title": "How does Taylor's law balance the complexity of design？",
+        "description": "There is a critical value for the complexity of products.",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*lcgKRpTxzO8AAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/343497540"
       },
       {
-        "title": "How to do ‘Anticipatory Design’？",
-        "description": "Master the method to make you a step earlier than your users!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*H1NcRbw8nTAAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/338138151"
+        "title": "Ant Design Engineering -- SEE Conf share",
+        "description": "Ant Design's thinking on invisible design rules behind visible design system",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*oftiTabIc10AAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/344336425"
       }
     ]
   },
