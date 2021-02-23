@@ -2,44 +2,44 @@
   "recommendations": {
     "cn": [
       {
-        "title": "2021年，川籍前端快回家! 🍲",
-        "description": "快来了解一下家门口的工作",
-        "img": "https://gw.alipayobjects.com/mdn/rms_ad28ca/afts/img/A*ZB9mRIHo9RAAAAAAAAAAAAAAARQnAQ",
-        "href": "https://www.yuque.com/cgizk3/tqty9q/quq1q9",
+        "title": "和我们一起，干件大事情",
+        "description": "蚂蚁集团 · 平台设计部招体验/创意设计师啦!",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*EN6vTq9tYtkAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/351253463",
         "popularize": true
       },
       {
-        "title": "和我们一起，干件大事情",
-        "description": "蚂蚁集团 · 平台设计部招体验/创意设计师啦!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*LE6ISbzwdMMAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/351253463"
+        "title": "重新定义电子表格——语雀表格设计（一）",
+        "description": "如果你来重新设计表格，你会如何设计？ ",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*Ggo5QKi8JDAAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/350958681"
       },
       {
-        "title": "Ant Design 设计工程化——SEE Conf 分享",
-        "description": "Ant Design 对可见的设计体系背后隐形的设计规则的思考，以及如何通过设计工程化的方式，让这些复杂的规则可用而不可见。",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*oftiTabIc10AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/344336425"
+        "title": "AntV 图可视分析解决方案（设计篇）— SEE Conf 分享",
+        "description": "图释万物 - AntV 设计师带你看图可视分析解决方案",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*6nFISofjrTAAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/345721015"
       }
     ],
     "en": [
       {
-        "title": "It's 2021.Be a real Sichuanese, work and live here! 🍲",
-        "description": "Come and know more about the job on your doorstep!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_ad28ca/afts/img/A*ZB9mRIHo9RAAAAAAAAAAAAAAARQnAQ",
-        "href": "https://www.yuque.com/cgizk3/tqty9q/quq1q9",
+        "title": "Join us and do something big!",
+        "description": "Ant group platform design department is looking for experience / creative designers!",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*EN6vTq9tYtkAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/351253463",
         "popularize": true
       },
       {
-        "title": "Join us and do something big!",
-        "description": "Ant group platform design department is looking for experience / creative designers!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*LE6ISbzwdMMAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/351253463"
+        "title": "Redefining the electronic form -- the design of form (1)",
+        "description": "If you were to redesign the form, how would you design it? ",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*Ggo5QKi8JDAAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/350958681"
       },
       {
-        "title": "Ant Design Engineering -- SEE Conf share",
-        "description": "Ant Design's thinking on invisible design rules behind visible design system",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*oftiTabIc10AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/344336425"
+        "title": "AntV diagram visual analysis solution (Design) -- SEE Conf share",
+        "description": "Illustration of everything - AntV designers show you visual analysis solutions",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*6nFISofjrTAAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/345721015"
       }
     ]
   },
