@@ -46,6 +46,14 @@
   "extras": {
     "cn": [
       {
+        "title": "B 类产品文案指南",
+        "description": "本文主要面向 B 类业务、简体中文语境，提供实操性指南，包含原则、词表、格式、类型和相关正反案例。",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*eE72TYcfB4UAAAAAAAAAAAAAARQnAQ",
+        "date": "2021-02-20",
+        "source": "zhihu",
+        "href": "https://zhuanlan.zhihu.com/p/351739115"
+      },
+      {
         "title": "AntV 图可视分析解决方案（设计篇）— SEE Conf 分享",
         "description": "随着产品功能的拓展，需要在图上表达的信息维度越来越多，根本没有停下来的趋势。如何应对这些挑战？",
         "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*XMbiR42GXkMAAAAAAAAAAAAAARQnAQ",
@@ -68,14 +76,6 @@
         "date": "2020-11-26",
         "source": "zhihu",
         "href": "https://zhuanlan.zhihu.com/p/312306021"
-      },
-      {
-        "title": "贴地飞行的 AntV 设计",
-        "description": "一年一度的 AntV 品牌发布日又来了，今年我们给大家带来了“贴地飞行”的 AntV 设计。",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*spoKRrzDtyIAAAAAAAAAAAAAARQnAQ",
-        "date": "2020-11-25",
-        "source": "zhihu",
-        "href": "https://zhuanlan.zhihu.com/p/308495829"
       }
     ],
     "en": [
