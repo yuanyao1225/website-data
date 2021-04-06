@@ -2,17 +2,17 @@
   "recommendations": {
     "cn": [
       {
-        "title": "B 类产品文案指南",
-        "description": "本文主要面向 B 类业务、简体中文语境，提供实操性指南",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*kI_AS4mQ-w4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/351739115",
+        "title": "B 端产品界面高屏效初探",
+        "description": "「屏效」对于界面而言可以指屏幕单位时间、单位面积内的信息可以带来多少商业效益/效率提升",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*kTF1TbJ5hZwAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/362544279",
         "popularize": true
       },
       {
-        "title": "🎉 Graphin 2.0 来啦～",
-        "description": "开箱即用的功能，全新架构升级，集成解决方案!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*9aiDRL4dkFAAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/352654239"
+        "title": "通知消息系统设计指南",
+        "description": "本文解答网页端界面消息系统设计的一系列问题",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*cml8Sb1j6gkAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/361897152"
       },
       {
         "title": "「设计模型」设计师应该掌握的设计成果评估模型",
@@ -23,17 +23,17 @@
     ],
     "en": [
       {
-        "title": "Copywriting guide for Business Products!",
-        "description": "This paper provides practical guidance for Business products and simplified Chinese context",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*kI_AS4mQ-w4AAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/351739115",
+        "title": "High screen efficiency of business product interface",
+        "description": "Screen effect for an interface can refer to how much business benefit / efficiency improvement can be brought by the informationper unit time and per unit area of the screen",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*kTF1TbJ5hZwAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/362544279",
         "popularize": true
       },
       {
-        "title": "🎉 Here comes Graphin 2.0",
-        "description": "Simple and easy to use function, new architecture upgrade, integrated solution!",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*9aiDRL4dkFAAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/352654239"
+        "title": "Design Guide for notification message system",
+        "description": "This paper answers a series of questions about the design of web interface message system",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*cml8Sb1j6gkAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/361897152"
       },
       {
         "title": "The evaluation model of design achievements that designers should master",
