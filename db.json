@@ -2,10 +2,10 @@
   "recommendations": {
     "cn": [
       {
-        "title": "B 端产品界面高屏效初探",
-        "description": "「屏效」对于界面而言可以指屏幕单位时间、单位面积内的信息可以带来多少商业效益/效率提升",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*XZGGT7ayAKIAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/362544279",
+        "title": "B 类产品设计细节：对话框 vs 抽屉",
+        "description": "本文对两个组件的主要差别进行了对比，帮助大家快速作出选择",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*_awlRLI-IUEAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/361575057",
         "popularize": true
       },
       {
@@ -23,10 +23,10 @@
     ],
     "en": [
       {
-        "title": "High screen efficiency of business product interface",
-        "description": "Screen effect for an interface can refer to how much business benefit / efficiency improvement can be brought by the informationper unit time and per unit area of the screen",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*XZGGT7ayAKIAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/362544279",
+        "title": " Business product design details: dialog box vs drawer",
+        "description": "This paper compares the main differences between the two components to help you make a quick choice",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*_awlRLI-IUEAAAAAAAAAAAAAARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/361575057",
         "popularize": true
       },
       {
