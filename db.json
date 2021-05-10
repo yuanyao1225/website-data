@@ -2,10 +2,10 @@
   "recommendations": {
     "cn": [
       {
-        "title": "B 类产品设计细节：对话框 vs 抽屉",
-        "description": "本文对两个组件的主要差别进行了对比，帮助大家快速作出选择",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*_awlRLI-IUEAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/361575057",
+        "title": "Ant Design 4.0 的一些杂事儿 - Trigger 篇",
+        "description": "关于 antd 底层有一个基础组件 rc-trigger 的一些问题",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*wOoaT6juZqwAAAAAAAAAAABkARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/364776062",
         "popularize": true
       },
       {
@@ -23,10 +23,10 @@
     ],
     "en": [
       {
-        "title": "Business product design details: dialog box vs drawer",
-        "description": "This paper compares the main differences between the two components to help you make a quick choice",
-        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*_awlRLI-IUEAAAAAAAAAAAAAARQnAQ",
-        "href": "https://zhuanlan.zhihu.com/p/361575057",
+        "title": "Some chores of Ant Design 4.0 - Trigger",
+        "description": "Some problems about rc-trigger, a basic component at the bottom of antd",
+        "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*wOoaT6juZqwAAAAAAAAAAABkARQnAQ",
+        "href": "https://zhuanlan.zhihu.com/p/364776062",
         "popularize": true
       },
       {
