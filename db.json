@@ -1,12 +1,12 @@
 {
   "recommendations": {
     "cn": [
-      { "title": "Ant Design 4.0 的一些杂事儿 - Trigger 篇", "description": "关于 antd 底层有一个基础组件 rc-trigger 的一些问题", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*wOoaT6juZqwAAAAAAAAAAABkARQnAQ", "href": "https://zhuanlan.zhihu.com/p/364776062", "popularize":true },
+      { "title": "B 类产品设计细节：文本缩略", "description": "文本缩略是指展示空间不足时，该怎么做？", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*lN6IRbhv8fIAAAAAAAAAAABkARQnAQ", "href": "https://zhuanlan.zhihu.com/p/360807492", "popularize":true },
       { "title": "通知消息系统设计指南", "description": "本文解答网页端界面消息系统设计的一系列问题", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*cml8Sb1j6gkAAAAAAAAAAAAAARQnAQ", "href": "https://zhuanlan.zhihu.com/p/361897152" },
       { "title": "「设计模型」设计师应该掌握的设计成果评估模型", "description": "在设计工作中常会遇到设计成果评估的问题，即如何评判设计成果的好与坏", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*dvDvTYp4JckAAAAAAAAAAAAAARQnAQ", "href": "https://zhuanlan.zhihu.com/p/351269487" }
     ],
     "en": [
-      { "title": "Some chores of Ant Design 4.0 - Trigger", "description": "Some problems about rc-trigger, a basic component at the bottom of antd", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*wOoaT6juZqwAAAAAAAAAAABkARQnAQ", "href": "https://zhuanlan.zhihu.com/p/364776062", "popularize":true },
+      { "title": "Business Product design details: text abbreviation", "description": "Text abbreviation refers to what to do when the display space is insufficient", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*lN6IRbhv8fIAAAAAAAAAAABkARQnAQ", "href": "https://zhuanlan.zhihu.com/p/360807492", "popularize":true },
       { "title": "Design Guide for notification message system", "description": "This paper answers a series of questions about the design of web interface message system", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*cml8Sb1j6gkAAAAAAAAAAAAAARQnAQ", "href": "https://zhuanlan.zhihu.com/p/361897152" },
       { "title": "The evaluation model of design achievements that designers should master", "description": "How to judge the good and bad of design results in design work", "img": "https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*dvDvTYp4JckAAAAAAAAAAAAAARQnAQ", "href": "https://zhuanlan.zhihu.com/p/351269487" }
     ]
